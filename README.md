@@ -1,5 +1,5 @@
  # Boas vindas ao meu perfil <3
- meu nome é Luana Cozini
+ *meu nome é Luana Cozini*
  
  -Estou estudando na Alura
  
